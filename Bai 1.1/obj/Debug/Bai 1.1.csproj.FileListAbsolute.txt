@@ -1,0 +1,7 @@
+D:\TH LTHDT\Bai 1.1\bin\Debug\Bai 1.1.exe.config
+D:\TH LTHDT\Bai 1.1\bin\Debug\Bai 1.1.exe
+D:\TH LTHDT\Bai 1.1\bin\Debug\Bai 1.1.pdb
+D:\TH LTHDT\Bai 1.1\obj\Debug\Bai 1.1.csproj.AssemblyReference.cache
+D:\TH LTHDT\Bai 1.1\obj\Debug\Bai 1.1.csproj.CoreCompileInputs.cache
+D:\TH LTHDT\Bai 1.1\obj\Debug\Bai 1.1.exe
+D:\TH LTHDT\Bai 1.1\obj\Debug\Bai 1.1.pdb

@@ -1,0 +1,7 @@
+D:\TH LTHDT\Bai3_3\obj\Debug\Bai3_3.csproj.AssemblyReference.cache
+D:\TH LTHDT\Bai3_3\obj\Debug\Bai3_3.csproj.CoreCompileInputs.cache
+D:\TH LTHDT\Bai3_3\bin\Debug\Bai3_3.exe.config
+D:\TH LTHDT\Bai3_3\bin\Debug\Bai3_3.exe
+D:\TH LTHDT\Bai3_3\bin\Debug\Bai3_3.pdb
+D:\TH LTHDT\Bai3_3\obj\Debug\Bai3_3.exe
+D:\TH LTHDT\Bai3_3\obj\Debug\Bai3_3.pdb

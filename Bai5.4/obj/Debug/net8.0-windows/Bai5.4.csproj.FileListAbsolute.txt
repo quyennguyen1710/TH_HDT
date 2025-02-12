@@ -1,0 +1,16 @@
+D:\TH LTHDT\Bai5.4\bin\Debug\net8.0-windows\Bai5.4.exe
+D:\TH LTHDT\Bai5.4\bin\Debug\net8.0-windows\Bai5.4.deps.json
+D:\TH LTHDT\Bai5.4\bin\Debug\net8.0-windows\Bai5.4.runtimeconfig.json
+D:\TH LTHDT\Bai5.4\bin\Debug\net8.0-windows\Bai5.4.dll
+D:\TH LTHDT\Bai5.4\bin\Debug\net8.0-windows\Bai5.4.pdb
+D:\TH LTHDT\Bai5.4\obj\Debug\net8.0-windows\Bai5._4.Form1.resources
+D:\TH LTHDT\Bai5.4\obj\Debug\net8.0-windows\Bai5.4.csproj.GenerateResource.cache
+D:\TH LTHDT\Bai5.4\obj\Debug\net8.0-windows\Bai5.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\TH LTHDT\Bai5.4\obj\Debug\net8.0-windows\Bai5.4.AssemblyInfoInputs.cache
+D:\TH LTHDT\Bai5.4\obj\Debug\net8.0-windows\Bai5.4.AssemblyInfo.cs
+D:\TH LTHDT\Bai5.4\obj\Debug\net8.0-windows\Bai5.4.csproj.CoreCompileInputs.cache
+D:\TH LTHDT\Bai5.4\obj\Debug\net8.0-windows\Bai5.4.dll
+D:\TH LTHDT\Bai5.4\obj\Debug\net8.0-windows\refint\Bai5.4.dll
+D:\TH LTHDT\Bai5.4\obj\Debug\net8.0-windows\Bai5.4.pdb
+D:\TH LTHDT\Bai5.4\obj\Debug\net8.0-windows\Bai5.4.genruntimeconfig.cache
+D:\TH LTHDT\Bai5.4\obj\Debug\net8.0-windows\ref\Bai5.4.dll

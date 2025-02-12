@@ -1,0 +1,2 @@
+D:\TH LTHDT\HinhVe\obj\Debug\HinhVe.csproj.AssemblyReference.cache
+D:\TH LTHDT\HinhVe\obj\Debug\HinhVe.csproj.CoreCompileInputs.cache

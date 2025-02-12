@@ -1,0 +1,7 @@
+D:\TH LTHDT\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\TH LTHDT\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\TH LTHDT\test\bin\Debug\test.exe.config
+D:\TH LTHDT\test\bin\Debug\test.exe
+D:\TH LTHDT\test\bin\Debug\test.pdb
+D:\TH LTHDT\test\obj\Debug\test.exe
+D:\TH LTHDT\test\obj\Debug\test.pdb
